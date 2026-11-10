@@ -1,0 +1,356 @@
+{
+  "file_count": 70,
+  "hash_algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "404.html",
+      "bytes": 2165,
+      "sha256": "d5624db5865f4328f2dbf3fae41b2625edaeae91fc1355f261565b0216de1826"
+    },
+    {
+      "path": "ASSET-STATUS.md",
+      "bytes": 2565,
+      "sha256": "1ceaf721a1b73b088269580ff9f362b410b0122509e9452f5a1e1fe1af472e14"
+    },
+    {
+      "path": "PANDUAN-GITHUB-GOOGLE-SITES.md",
+      "bytes": 2771,
+      "sha256": "f902b98956798fb1089e21f792fdbe7546f4952cdffa9a445647a83b508402eb"
+    },
+    {
+      "path": "PANDUAN-RILIS-FINAL.md",
+      "bytes": 3390,
+      "sha256": "bf21cc9dd617fb20eac66a74e606adcb5fa49fabe8fbef4c9fc7467ad0582296"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3951,
+      "sha256": "d9a051b9d993a9b605a68ffe3bfeae5f797a3ca7320ef1ffbea8e0e1376ac4f0"
+    },
+    {
+      "path": "SEO-LAUNCH-CHECKLIST.md",
+      "bytes": 2326,
+      "sha256": "61c796c36695239abb1604aa2d6f454d14af8beebbc18dd1024039f93537571c"
+    },
+    {
+      "path": "assets/beranda-hero.webp",
+      "bytes": 116028,
+      "sha256": "53258e883f4f46d1a83104ff7d97139fe2dc6b9096148f2f4cbecfef310e2686"
+    },
+    {
+      "path": "assets/hero-pulesari.webp",
+      "bytes": 86960,
+      "sha256": "bda7d4d6c6a0e1c4715b57e111974f1de3c56fc855e384d8d5dc095397af20a0"
+    },
+    {
+      "path": "assets/logo-pulesari.webp",
+      "bytes": 16700,
+      "sha256": "c6e708e51ef93e5f561a31f9b0ee4cb761aa863da2de6c904c515ab3a0ebf4f5"
+    },
+    {
+      "path": "assets/mascot-slot.svg",
+      "bytes": 891,
+      "sha256": "8189f459adb4d70339f116446acb5339478ca0e76db041a341fc8da1a091fe8d"
+    },
+    {
+      "path": "css/app.css",
+      "bytes": 26511,
+      "sha256": "186399cfadd686dc9d014428c802bea0720da798ea59cc94bac9c612acd39c59"
+    },
+    {
+      "path": "css/design-tokens.css",
+      "bytes": 4623,
+      "sha256": "1861f0b84a3d7d29c40264fe1bfeb7e6f1af0f221cc01736acdc082152889253"
+    },
+    {
+      "path": "css/phase10.css",
+      "bytes": 11389,
+      "sha256": "d9448bfd6663a9c1cf4e7ce0996608f018f0ac076646277417bc2e01d1b71035"
+    },
+    {
+      "path": "css/phase11.css",
+      "bytes": 1549,
+      "sha256": "5cd6a17d0b5244cec52c68ca2f7f6aaed24b418c2c263fa58b5e29b8beda5c18"
+    },
+    {
+      "path": "css/phase5.css",
+      "bytes": 15895,
+      "sha256": "b45cea578bd76ba6b6a3cf900572fe837cf825fcc07dc6bff68fa05b53284033"
+    },
+    {
+      "path": "css/phase6.css",
+      "bytes": 12571,
+      "sha256": "25e1ee30d8f5c74f47d3d3d1665c385a63b97ef27b21afbb50e79d91bab5aafd"
+    },
+    {
+      "path": "css/phase7.css",
+      "bytes": 16658,
+      "sha256": "2e51f2051407dcb77c4dde78cf65e85eb232e7fe940fe1044935607d3942e234"
+    },
+    {
+      "path": "css/phase8.css",
+      "bytes": 11333,
+      "sha256": "e47c33f4c8a5ce69b8ac996f64a9f4e4bfd32ca695696eb2ffc89185ecf9625f"
+    },
+    {
+      "path": "css/phase9.css",
+      "bytes": 21549,
+      "sha256": "740dcd7a24c92b974df48ee310c129862243f9f766064167bd1e68898772a98d"
+    },
+    {
+      "path": "data-penduduk.html",
+      "bytes": 16440,
+      "sha256": "9e5af33c7ec0d475b8c810aea77537c1dfd3bc33370eacb87dd3529bf0b376b4"
+    },
+    {
+      "path": "docs/BROWSER-QA-RESULTS.json",
+      "bytes": 19788,
+      "sha256": "c6b34a5a9704e0f2bdbbe804bc10ff8258a16748a483aea8c5b7e78df8815365"
+    },
+    {
+      "path": "docs/COMPONENT-INVENTORY.md",
+      "bytes": 1743,
+      "sha256": "f3a16b02d44ad2d0f545d8111d25d94e705fe15bb32fa423036c9012885d5ffe"
+    },
+    {
+      "path": "docs/DATA-PLACEHOLDER-RULES.md",
+      "bytes": 558,
+      "sha256": "2c4251f394c3a61168a4b1999dc51d76db557cc1f5a4c971636dfded2af530fd"
+    },
+    {
+      "path": "docs/DESIGN-SYSTEM.md",
+      "bytes": 7614,
+      "sha256": "d58ca8b1932941899d45c43881bfc1ab433d1455b1ce60571b43dce593a6cbe4"
+    },
+    {
+      "path": "docs/FINAL-QA-REPORT.json",
+      "bytes": 1659,
+      "sha256": "4946f67fdc4579458de668693ba0ede78e3908d04739fa027fd814c75e644bea"
+    },
+    {
+      "path": "docs/FINAL-RELEASE-NOTES.md",
+      "bytes": 1181,
+      "sha256": "ec8427e8075da8171bc0e2ab5f9578bce8c10d57db0f63ef45d7f74445fa50f1"
+    },
+    {
+      "path": "docs/PAGE-INVENTORY.md",
+      "bytes": 1863,
+      "sha256": "0cb2be0aab1dbc1a53eb4d9586df56d3fa1a9dccd17161934783488eb5393af2"
+    },
+    {
+      "path": "docs/PHASE-10-DETAIL.md",
+      "bytes": 1855,
+      "sha256": "df3368c283578c24e0da058acd6641d1d6b8133610d4c1ea1387a3ff4bab8ecd"
+    },
+    {
+      "path": "docs/PHASE-10-QA.md",
+      "bytes": 1657,
+      "sha256": "1bfdc6311fbdacad2343e7bec1f152e8707411cd38e3aa801aa2abdb58aaec02"
+    },
+    {
+      "path": "docs/PHASE-10-STATIC-VALIDATION.json",
+      "bytes": 3616,
+      "sha256": "62f15ed2f8be47d849787961563960ea60eaf1a93fbffe49c3f9ecbb0c011044"
+    },
+    {
+      "path": "docs/PHASE-11-QA.md",
+      "bytes": 1791,
+      "sha256": "595efa70bec4e383e97c1425f4999e33e196cce00b63517373e312fc0ba06fa4"
+    },
+    {
+      "path": "docs/PHASE-11-SEO-AUDIT.json",
+      "bytes": 6234,
+      "sha256": "2250f6425bab8c5455f78e2fe26fe2fd45813ea42c23489cc6c36ff1346274b6"
+    },
+    {
+      "path": "docs/PHASE-11-SEO-DETAIL.md",
+      "bytes": 1500,
+      "sha256": "430bd8e3f81424cf1e101d11705ae2dfe3067a0a943df042ece62b9ad8d02484"
+    },
+    {
+      "path": "docs/PHASE-11-STATIC-VALIDATION.json",
+      "bytes": 4388,
+      "sha256": "1bbf737e6c139f166f4ae7e3860f67d70030c9f8da4daa25e0131efe7506bcd7"
+    },
+    {
+      "path": "docs/PHASE-4-QA.md",
+      "bytes": 600,
+      "sha256": "24c994e7be6203e33d7fd77c14c75dad3a391a6eb2bbe75151c0a8ae61c3154b"
+    },
+    {
+      "path": "docs/PHASE-5-QA.md",
+      "bytes": 780,
+      "sha256": "f6d8e79707e9a9356376b5354994973db51e6abfb62fc5929d79ac87872cbaac"
+    },
+    {
+      "path": "docs/PHASE-5-STATUS.md",
+      "bytes": 976,
+      "sha256": "caf4f0b1e17c5bd2260f464410619ee7dfff8a030b3ef1172c4b1edbc8477e8d"
+    },
+    {
+      "path": "docs/PHASE-6-DETAIL.md",
+      "bytes": 1322,
+      "sha256": "c9796f308691e8f411cd13090869ca460d106af749b331a9bf5fda41f100c772"
+    },
+    {
+      "path": "docs/PHASE-6-QA.md",
+      "bytes": 723,
+      "sha256": "4c65b4a8225042773ecb532589dfee762b4eafe7e1e4c7537c879605c5844327"
+    },
+    {
+      "path": "docs/PHASE-7-DETAIL.md",
+      "bytes": 1244,
+      "sha256": "b463c2647d7daf456692ab2a4459a40f86c49a6756455a859eda4ae506e31ce3"
+    },
+    {
+      "path": "docs/PHASE-7-QA.md",
+      "bytes": 1141,
+      "sha256": "86ce3b03a52e6c4a314bcbb51980aa1f76e4d517fda525483e6fa1959ba2ac2d"
+    },
+    {
+      "path": "docs/PHASE-8-DETAIL.md",
+      "bytes": 2052,
+      "sha256": "c874b9fbf30ce5b77fc8c5c1582b5166b49bf452b7ad8d591c20959702450476"
+    },
+    {
+      "path": "docs/PHASE-8-QA.md",
+      "bytes": 2450,
+      "sha256": "bfe53a8c13c7c07ba53670d9dd9334a325d79952504b662c8ea4f3464edb1be5"
+    },
+    {
+      "path": "docs/PHASE-8-STATIC-VALIDATION.json",
+      "bytes": 2072,
+      "sha256": "3b3c46ae7cd3876bd59dee0f95e1424692aa7bb4c1eba25ad57c058049995498"
+    },
+    {
+      "path": "docs/PHASE-9-DETAIL.md",
+      "bytes": 1194,
+      "sha256": "74fcd504197d2e610e2c6b2835c1192eac9ba73742a65f087aafa43246ef95d3"
+    },
+    {
+      "path": "docs/PHASE-9-QA.md",
+      "bytes": 1334,
+      "sha256": "0431578cf5292a4d020f986e6078ae2b5c6b886a6a17aa839ebbf5d7c57a943e"
+    },
+    {
+      "path": "docs/PHASE-9-STATIC-VALIDATION.json",
+      "bytes": 1557,
+      "sha256": "55d88d58e6aa502d182d5b0d6af8cc06ccc355afdb4e7ee408fd937a818035c1"
+    },
+    {
+      "path": "galeri-dokumentasi.html",
+      "bytes": 13372,
+      "sha256": "3ce9a4aa8653e0b63ed02927036a6797881eb7a9e02be5cbc21372a4b8e603ab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15485,
+      "sha256": "6227a60de429d5f8bb91ea21861545ec38456d8384e8fd31bba54be84aab5225"
+    },
+    {
+      "path": "js/app.js",
+      "bytes": 6161,
+      "sha256": "9b74ec6e0fafa845f8038bb21bd565e6114d39a66f3648e3ce10bfe01b9e942a"
+    },
+    {
+      "path": "js/phase10.js",
+      "bytes": 13664,
+      "sha256": "050eb8d8a6acbe861ab0d2bfb3b9c8ead8ceeec02e3a5e7e6a609f693ff6607a"
+    },
+    {
+      "path": "js/phase5.js",
+      "bytes": 1455,
+      "sha256": "44bd577707675121897ebd2abd16fe1223e6f8e5dd2a1dd89303f3ca5bafc1da"
+    },
+    {
+      "path": "js/phase6.js",
+      "bytes": 3155,
+      "sha256": "8286608da902f544e42e2c466ef1240dbd937f43e6f3fb3126575ff7c0831f09"
+    },
+    {
+      "path": "js/phase7.js",
+      "bytes": 8704,
+      "sha256": "a7608b21cb85731a9da4e8a80bd84d60042dbeaadcd95a856fc225ed0a3d1d00"
+    },
+    {
+      "path": "js/phase8.js",
+      "bytes": 8452,
+      "sha256": "8dddfa33c1e93ec0861020060a5c9eefbd9af78085323244199ffc9d058e8ea5"
+    },
+    {
+      "path": "js/phase9.js",
+      "bytes": 7656,
+      "sha256": "c2d2b33aceaaa251c8bcab60c334631f97e64d266a45996500d1122374c3bdf1"
+    },
+    {
+      "path": "kegiatan-agenda.html",
+      "bytes": 13157,
+      "sha256": "faba417d73591fc07b47dffd98a941b9a6c1ed2e0182657d7d12b2ab13a7348e"
+    },
+    {
+      "path": "kelembagaan.html",
+      "bytes": 16169,
+      "sha256": "1bc36efa664bd0801de78ac217894107b400b175e41c159fb67408128b2b9bf9"
+    },
+    {
+      "path": "kontak.html",
+      "bytes": 11674,
+      "sha256": "487b43d180bcd9a0092f13973410e98dec75edbc57036f1525ebf6e1ed741a1f"
+    },
+    {
+      "path": "layanan-masyarakat.html",
+      "bytes": 14133,
+      "sha256": "ef676632842f98ae50de8b8fba98e7a9b276b6ed705f0ae1c4ab77b2ddb7e767"
+    },
+    {
+      "path": "pengaturan.html",
+      "bytes": 22747,
+      "sha256": "d0e9414c2a817ee1a2a7cd4d17175ebe7f07dd328d7d69977223f3c1a1d1587b"
+    },
+    {
+      "path": "peta-interaktif.html",
+      "bytes": 12432,
+      "sha256": "82d8be2abc0fcb200df9f36301e32a14001c1e194a38b3ee7b37f5c44b173f37"
+    },
+    {
+      "path": "potensi-dusun.html",
+      "bytes": 12439,
+      "sha256": "e3c9c2137ebcf336e83a1675831dd8338d01b209ea4618e8f2662819692835c9"
+    },
+    {
+      "path": "produk-hukum-dusun.html",
+      "bytes": 15887,
+      "sha256": "35800d7f1c993df7d7577e4e6a581fc32dc88dceda1011d9081bcc69737156a0"
+    },
+    {
+      "path": "profil-dusun.html",
+      "bytes": 15379,
+      "sha256": "00848b540cc512e971a434f4bf74d29a45995c98e09e564ec55146e4cad86a2f"
+    },
+    {
+      "path": "program-dusun.html",
+      "bytes": 13472,
+      "sha256": "06497223f621726986a5ecde5548f7d519d46d532378bdff3ab966acce907b49"
+    },
+    {
+      "path": "pusat-informasi.html",
+      "bytes": 13115,
+      "sha256": "61b0699082cd7eba181e6e7139eda873545f504b0eceaa97521c85185893c371"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 266,
+      "sha256": "d94d6aec9271983d51fc066459917613dbe44ce718c743af555efa08200eccb8"
+    },
+    {
+      "path": "scripts/prepare-seo-launch.py",
+      "bytes": 3828,
+      "sha256": "cdc641aced6d65245fc8113b664f79e5b92ce6e97431b7caf6366c011f515d5d"
+    }
+  ]
+}
